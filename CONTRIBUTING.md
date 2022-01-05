@@ -1,6 +1,6 @@
 CONTRIBUTING.md
 
-## 🤝 Wanna Contribute to this project
+## 🤝 Want to Contribute to this project
 You can contribute to this project by following these simple steps:
 
 ### Step-1: 
@@ -40,4 +40,3 @@ git push origin branch_name
 Then go to github repo, there will be automatically a button generated to create pull request, just click that button.
 
 Congratulations🎉, you have successfully created the PR.
-I will be really glad if you contribute
